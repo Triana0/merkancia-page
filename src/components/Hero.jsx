@@ -19,7 +19,7 @@ const Hero = () => {
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
           <a href="#demo" className="bg-accent hover:bg-white hover:text-primary text-white px-8 py-4 rounded-full font-extrabold text-lg flex items-center justify-center gap-2 transition-all hover:scale-105 shadow-xl shadow-accent/40">
-            SOLICITA UNA DEMO GRATIS
+            SOLICITAR DEMO
             <ArrowRight size={20} />
           </a>
           <a href="#modulos" className="bg-white/0 hover:bg-white/0 text-white border border-white/0 px-0 py-5 rounded-full font-bold text-lg flex items-center justify-center transition-colors">

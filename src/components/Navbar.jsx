@@ -29,8 +29,8 @@ const Navbar = () => {
           <div className="hidden md:flex space-x-8 items-center">
             <a href="#modulos" className="text-gray-300 hover:text-white transition-colors">Módulos</a>
             <a href="#beneficios" className="text-gray-300 hover:text-white transition-colors">Beneficios</a>
-            <a href="#demo" className="bg-accent hover:bg-secondary text-white px-6 py-2 rounded-full font-bold transition-colors shadow-sm">
-              Potencia tu negocio
+            <a href="#demo" className="text-gray-300 hover:text-white transition-colors">
+              Planes
             </a>
           </div>
           <div className="md:hidden flex items-center">
