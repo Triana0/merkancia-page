@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3B1E54; /* Deep Purple */
+  --color-secondary: #5C3286; /* Medium Purple */
+  --color-accent: #9B6BDB; /* Light Purple / Lilac */
+  --color-plomo: #E5E7EB; /* Light Gray / Plomo claro */
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background-color: #f9fafb;
+}
