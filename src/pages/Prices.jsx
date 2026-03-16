@@ -48,7 +48,7 @@ const Prices = () => {
       {/* título */}
       <div className="max-w-6xl mx-auto text-center mb-16">
         <h1 className="text-4xl font-bold mb-4">
-          Planes de MERKANCIA
+          PLANES DE MERKANCIA
         </h1>
         <p className="text-slate-600 text-lg">
           Selecciona el plan ideal para tu negocio

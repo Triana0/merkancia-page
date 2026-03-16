@@ -10,11 +10,11 @@ const Hero = () => {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 flex flex-col items-center text-center">
         <h1 className="text-4xl md:text-5xl lg:text-7xl font-extrabold tracking-tight max-w-5xl leading-tight">
-          Multiplica tus Ganancias y Toma el <span className="text-accent">Control Total</span> de tus Ventas
+          La tecnología que <span className="text-accent">tu empresa</span> <span> necesita para </span> <span className="text-accent"> crecer </span> 
         </h1>
 
         <p className="mt-6 text-xl text-gray-200 max-w-3xl mx-auto font-medium">
-          El sistema Todo en Uno diseñado para empresas que quieren dejar de perder tiempo en procesos manuales y empezar a escalar con inteligencia y organización.
+          Automatiza procesos, gestiona tu información y mejora el control de tu negocio.
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">

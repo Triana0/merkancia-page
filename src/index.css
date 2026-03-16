@@ -13,3 +13,21 @@ body {
   font-family: var(--font-sans);
   background-color: #f9fafb;
 }
+
+@keyframes scrollScreens {
+
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(-50%);
+  }
+
+}
+
+.animate-scrollScreens {
+
+  animation: scrollScreens 18s linear infinite;
+
+}
